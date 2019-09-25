@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Secured Rest Service Client</string>
+
+    <string name="url_server_client_certificated">https://10.0.2.2:8443</string>
+    <string name="url_server">https://10.0.2.2:8444</string>
+    <string name="client_cert_file">client.p12</string>
+    <string name="server_cert_file_p12">server.p12</string>
+    <string name="server_cert_file_crt">server.crt</string>
+    <string name="cert_password">changeit</string>
+
+    <string name="useClientCertificate">Use Client Certificate</string>
+    <string name="acceptAllCertificate">TrustManager Accept All Certificate</string>
+    <string name="trustManagerLoadAs">TrustManager Load File As :</string>
+    <string name="p12">.p12</string>
+    <string name="crt">.crt</string>
+    <string name="callService">Call Service</string>
+    <string name="serviceResult">Service Result</string>
+</resources>
